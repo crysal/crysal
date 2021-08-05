@@ -4,7 +4,7 @@ This can be found in both of my passions, Penetration Testing and Speedrunning
 
 ### Exploits 🐱‍👤
 Can't disclose any low level details-
-But have help places like
+But have helped places like
 * [Reddit](https://hackerone.com/reddit) 👾
 * [Discord](https://canary.discord.com/security) 😱
 * [HackTheBox](https://app.hackthebox.eu/profile/79500#badges) 🐛
