@@ -9,6 +9,7 @@ But have help places like
 * [Discord](https://canary.discord.com/security) 😱
 * [HackTheBox](https://app.hackthebox.eu/profile/79500#badges) 🐛
 * More to come
+
 The scope ranges a lot with what my contributions to theses was
 
 ### Capture The Flags 🤖
