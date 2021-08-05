@@ -1,16 +1,26 @@
-### Hi there 👋
+### Crysal 🏂
+I enjoy getting into places where I'm not supposed to be-
+This can be found in both of my passions, Penetration Testing and Speedrunning 
 
-<!--
-**crysal/crysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Exploits 🐱‍👤
+Can't disclose any low level details-
+But have help places like
+* [Reddit](https://hackerone.com/reddit) 👾
+* [Discord](https://canary.discord.com/security) 😱
+* [HackTheBox](https://app.hackthebox.eu/profile/79500#badges) 🐛
+* More to come
+The scope ranges a lot with what my contributions to theses was
 
-Here are some ideas to get you started:
+### Capture The Flags 🤖
+* Hack Your Way To The Future by [ZACCO](https://www.zacco.com/) : 1st
+* NC3 CTF 2018 by [NC3](https://www.dansk-politi.dk/emne/cybercrime) : 15th
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### In the news 📜
+Can't really link anything without DOXING myself too much
+but all my mainstream news appearances has been non-cybersecurity related
+
+### Media 🔭
+- [Twitter](https://twitter.com/crysal0)
+- [Speedrun](https://www.speedrun.com/crysal)
+- [Youtube](https://www.youtube.com/crysal)
+- [Twitch](https://www.twitch.tv/crysal)
