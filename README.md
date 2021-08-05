@@ -2,7 +2,7 @@
 I enjoy getting into places where I'm not supposed to be-
 This can be found in both of my passions, Penetration Testing and Speedrunning 
 
-### Exploits 🐱‍👤
+### Bugs bountied 🐱‍👤
 Can't disclose any low level details-
 But have helped places like
 * [Reddit](https://hackerone.com/reddit) 👾
