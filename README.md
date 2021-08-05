@@ -1,9 +1,11 @@
 ### Crysal 🏂
-I enjoy getting into places where I'm not supposed to be-
+I enjoy getting into places where I'm not supposed to be.
+
 This can be found in both of my passions, Penetration Testing and Speedrunning 
 
 ### Bugs bountied 🐱‍👤
-Can't disclose any low level details-
+Can't disclose any low level details
+
 But have helped places like
 * [Reddit](https://hackerone.com/reddit) 👾
 * [Discord](https://canary.discord.com/security) 😱
