@@ -16,10 +16,6 @@ The scope ranges a lot with what my contributions to theses was
 * Hack Your Way To The Future by [ZACCO](https://www.zacco.com/) : 1st
 * NC3 CTF 2018 by [NC3](https://www.dansk-politi.dk/emne/cybercrime) : 15th
 
-### In the news 📜
-Can't really link anything without DOXING myself too much
-but all my mainstream news appearances has been non-cybersecurity related
-
 ### Media 🔭
 - [Twitter](https://twitter.com/crysal0)
 - [Speedrun](https://www.speedrun.com/crysal)
