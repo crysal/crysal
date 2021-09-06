@@ -9,7 +9,7 @@ Can't disclose any low level details
 But have helped places like
 * [Reddit](https://hackerone.com/reddit) 👾
 * [Discord](https://canary.discord.com/security) 😱
-* [HackTheBox](https://app.hackthebox.eu/profile/79500#badges) 🐛
+* [HackTheBox](https://app.hackthebox.eu/profile/badges/79500) 🐛
 * More to come
 
 The scope ranges a lot with what my contributions to theses was
