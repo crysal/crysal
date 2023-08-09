@@ -13,7 +13,7 @@ This can be found in both of my passions, Penetration Testing and Speedrunning
 The scope ranges a lot with what my contributions to theses was
 
 ### Capture The Flag 🤖
-* Hack Your Way To The Future by [ZACCO](https://www.zacco.com/) : 1st
+* Hack Your Way To The Future by [OpSec Security](https://www.opsecsecurity.com/) : 1st
 * NC3 CTF 2018 by [NC3](https://www.dansk-politi.dk/emne/cybercrime) : 15th
 
 ### Social Media 🔭
