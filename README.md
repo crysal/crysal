@@ -17,7 +17,7 @@ The scope ranges a lot with what my contributions to theses was
 * NC3 CTF 2018 by [NC3](https://www.dansk-politi.dk/emne/cybercrime) : 15th
 
 ### Social Media 🔭
-* [Twitter](https://twitter.com/crysal0)
+* [BlueSky](https://bsky.app/profile/crysal0.bsky.social)
 * [Speedrun](https://www.speedrun.com/crysal)
 * [Youtube](https://www.youtube.com/crysal)
 * [Twitch](https://www.twitch.tv/crysal)
